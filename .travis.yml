@@ -1,9 +1,6 @@
 language: python
-matrix:
-    include:
-        - python: 3.10
-          dist: xenial
-          sudo: true
+python:
+  - "3.6"
 
 services:
   - docker
