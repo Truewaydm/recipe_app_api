@@ -2,3 +2,4 @@ Django==4.2
 djangorestframework==3.14.0
 flake8==6.0.0
 urllib3==1.26.6
+psycopg2==2.9.6
