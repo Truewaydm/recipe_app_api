@@ -31,3 +31,4 @@ class UseAdmin(BaseUserAdmin):
 
 
 admin.site.register(models.User, UseAdmin)
+admin.site.register(models.Tag)
